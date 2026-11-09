@@ -1,2 +1,2 @@
-# inclusive-education-platfor
+# inclusive-education-platform
 Inclusive Education Platform
